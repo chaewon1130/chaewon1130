@@ -35,8 +35,8 @@
 #
 <h3 align="center">🔥 Me 🔥</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaewon1130&layout=compact&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaewon1130&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaewon1130&layout=compact&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaewon1130&show_icons=true&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tubus17)](https://solved.ac/tubus17/)
 
 
