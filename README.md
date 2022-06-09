@@ -59,12 +59,12 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tubus17)](https://solved.ac/tubus17/)
 <br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaewon1130&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tubus1130&show_icons=true&theme=dracula)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaewon1130&langs_count=6&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tubus1130&langs_count=6&theme=tokyonight)
 
 
 
 #
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaewon1130%2Fhit-counter&count_bg=%23585B56&title_bg=%231D191C&icon=v.svg&icon_color=%23E10404&title=hits&edge_flat=true"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftubus1130%2Fhit-counter&count_bg=%23585B56&title_bg=%231D191C&icon=v.svg&icon_color=%23E10404&title=hits&edge_flat=true"/></a>
 </div>
