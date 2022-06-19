@@ -19,15 +19,15 @@
 <div align="center">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=tubus1130&show_icons=true&theme=dracula"/>  
   <p align="center"> 📌 Techs that I've used at least once </p>  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=spring&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/PYTHON-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/PYTHON-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JQUERY-0769AD?style=flat-square&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/><br><br>
   <p align="center"> 📌 Techs that I'll study </p>
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MONGODB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
