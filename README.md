@@ -1,6 +1,6 @@
 <!--![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header)-->
 <div align="center">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubus1130&theme=tokyonight&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=8"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubus1130&theme=tokyonight&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=8&card_width=420"/>
   
   ### 👻👻 Dong Ho 👻👻
   
