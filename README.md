@@ -41,4 +41,9 @@
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=tubus17"/>
     <img align="right" src="https://streak-stats.demolab.com?user=tubus1130&theme=tokyonight-duo&hide_border=true&border_radius=5.3&date_format=%5BY%20%5DM%20j&card_width=420">
 </div>
+
+---
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tubus1130&theme=tokyo-night">
+</div>
 <!--![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)-->
