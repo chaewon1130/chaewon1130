@@ -7,12 +7,12 @@
   
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftubus1130%2Fhit-counter&count_bg=%23585B56&title_bg=%231D191C&icon=v.svg&icon_color=%23E10404&title=hits&edge_flat=true"/></a> 
   <a href="https://velog.io/@tubus1130"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@tubus1130"/></a>
-  <p align="center"> &nbsp; </p>
-  <p align="center"> 📞 <strong>CONTACT</strong> </p>  
+  <p align="center">  </p>
+  <p align="center"> 📞 <strong>CONTACT ME</strong> </p>  
   
   <a href="mailto:tubus1130@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"> 
-  </a>
+  </a><br>
   <a href="https://open.kakao.com/o/s7PW5MNf">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=plastic&logoColor=black&logo=KakaoTalk"> 
   </a>
