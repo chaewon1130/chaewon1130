@@ -2,7 +2,7 @@
 <div align="center">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubus1130&theme=tokyonight&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=8&card_width=420"/>
   
-  ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Redressed&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=435&lines=Developer+Dong+Ho)](https://git.io/typing-svg)
+  ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Redressed&pause=1000&color=70A5FD&center=true&width=435&lines=Developer+Dong+Ho)](https://git.io/typing-svg)
   
   
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftubus1130%2Fhit-counter&count_bg=%23585B56&title_bg=%231D191C&icon=v.svg&icon_color=%23E10404&title=hits&edge_flat=true"/></a> <a href="https://solved.ac/tubus17"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tubus17"/></a> 
