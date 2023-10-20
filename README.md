@@ -1,6 +1,6 @@
 <!--![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header)-->
 <div align="center">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubus1130&theme=tokyonight&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=8&card_width=420"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubus1130&theme=tokyonight&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=8&card_width=320"/>
   
   ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Redressed&pause=1000&color=70A5FD&center=true&width=435&lines=Developer+Dong+Ho)](https://git.io/typing-svg)
   
