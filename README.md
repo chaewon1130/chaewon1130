@@ -10,7 +10,7 @@
   <p align="center"> &nbsp; </p>
   <p align="center"> 📌 Techs that I use well </p>  
   
-  <img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=plastic&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/SPRING-6DB33F?style=plastic&logo=spring&logoColor=white">
   
