@@ -1,6 +1,6 @@
 <!--![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header)-->
 <div align="center">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubus1130&theme=tokyonight&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=8&card_width=460"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubus1130&theme=tokyonight&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=8&card_width=350"/>
   
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Redressed&pause=1000&color=70A5FD&center=true&width=235&lines=Developer+Dong+Ho)](https://git.io/typing-svg)
   
@@ -16,7 +16,8 @@
  ---
 
 <div align="center">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=tubus1130&show_icons=true&theme=tokyonight"/>  
+    <!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=tubus1130&show_icons=true&theme=tokyonight"/>  -->
+    <img align="right" src="http://mazassumnida.wtf/api/generate_badge?boj=tubus17"/>
   <p align="center"> 📌 <strong>Techs that I've used at least once</strong> </p> <br>
     <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=OpenJDK&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/>
@@ -42,14 +43,17 @@
     
 </div>
 
----
+
+<!--
 <div align="center">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=tubus17"/>
+    
     <img align="right" src="https://streak-stats.demolab.com?user=tubus1130&theme=tokyonight-duo&hide_border=true&border_radius=5.3&date_format=%5BY%20%5DM%20j&card_width=420">
 </div>
+-->
 
----
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tubus1130&theme=tokyo-night">
-</div>
-<!--![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)-->
+<!--
+    <div align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=tubus1130&theme=tokyo-night">
+    </div>
+    ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+-->
