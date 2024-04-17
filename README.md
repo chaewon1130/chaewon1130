@@ -9,7 +9,7 @@
  
   <p align="center">  </p>
   <p align="center"> 💻 <strong>DEV Log</strong> </p>  
-   <a href="https://velog.io/@tubus1130"><img src="https://img.shields.io/badge/Velog-11B48A?style=plastic&logo=Velog&logoColor=white&link=https://velog.io/@tubus1130"/></a>
+   
   <a href="https://www.notion.so/tubus1130/c0bdc067f8424daf9a4eda26aed8eab9"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white&link=https://www.notion.so/tubus1130/c0bdc067f8424daf9a4eda26aed8eab9"/></a>
 </div>
 
