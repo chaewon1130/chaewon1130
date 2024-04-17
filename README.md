@@ -8,7 +8,7 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftubus1130%2Fhit-counter&count_bg=%23585B56&title_bg=%231D191C&icon=v.svg&icon_color=%23E10404&title=hits&edge_flat=true"/></a> 
  
   <p align="center">  </p>
-  <p align="center"> 💻 <strong>DEV Log</strong> </p>  
+  <p align="center"> 💻 <strong>PORTFOLIO</strong> </p>  
    
   <a href="https://www.notion.so/tubus1130/c0bdc067f8424daf9a4eda26aed8eab9"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white&link=https://www.notion.so/tubus1130/c0bdc067f8424daf9a4eda26aed8eab9"/></a>
 </div>
